@@ -1,9 +1,9 @@
 # Raycast-Reflections-2D-unity
 Raycast Reflections 2D in Unity | 2022 
 
-✅ Golomoder Youtube: https://www.youtube.com/c/GolomOder
+✅ GameDevBox Youtube: https://www.youtube.com/c/GolomOder
 
-✅ Golomoder Instagram: https://www.instagram.com/golomoder/
+✅ GameDevBox Instagram: https://www.instagram.com/golomoder/
 
 ✅ Itch.io: https://reversegravity.itch.io/
 
